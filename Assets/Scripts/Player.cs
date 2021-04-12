@@ -26,7 +26,7 @@ public class Player : MonoBehaviour
         speed = 5;
     }
 
-
+    // esta es una linea de prueba hecha para probar Git
     void Update()
     {
        
